@@ -8,7 +8,7 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
-      "Flunt/2.0.5": {
+      "Flunt/1.0.5": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Flunt.dll": {}
@@ -1674,7 +1674,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Flunt": "2.0.5",
+          "Flunt": "1.0.5",
           "PaymentContext.Shared": "1.0.0"
         },
         "compile": {
@@ -1688,7 +1688,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Flunt": "2.0.5"
+          "Flunt": "1.0.5"
         },
         "compile": {
           "bin/placeholder/PaymentContext.Shared.dll": {}
@@ -1751,16 +1751,15 @@
         "coverlet.collector.nuspec"
       ]
     },
-    "Flunt/2.0.5": {
-      "sha512": "CMgq8FUYjkHzyZT3PhkUwZyy79mudON+EL4b0SAT7BfIOJ2CNypwnbdA0cPHAM2CYQfO2L8ubNJCiBHQOIv2pA==",
+    "Flunt/1.0.5": {
+      "sha512": "2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
       "type": "package",
-      "path": "flunt/2.0.5",
+      "path": "flunt/1.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "flunt.2.0.5.nupkg.sha512",
+        "flunt.1.0.5.nupkg.sha512",
         "flunt.nuspec",
-        "icon.png",
         "lib/netstandard2.0/Flunt.dll"
       ]
     },
@@ -6256,7 +6255,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Flunt >= 2.0.5",
+      "Flunt >= 1.0.5",
       "MSTest.TestAdapter >= 2.2.7",
       "MSTest.TestFramework >= 2.2.7",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
@@ -6318,7 +6317,7 @@
         "dependencies": {
           "Flunt": {
             "target": "Package",
-            "version": "[2.0.5, )"
+            "version": "[1.0.5, )"
           },
           "MSTest.TestAdapter": {
             "target": "Package",

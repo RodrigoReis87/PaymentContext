@@ -50,7 +50,7 @@
           "dependencies": {
             "Flunt": {
               "target": "Package",
-              "version": "[2.0.5, )"
+              "version": "[1.0.5, )"
             }
           },
           "imports": [
@@ -114,7 +114,7 @@
           "dependencies": {
             "Flunt": {
               "target": "Package",
-              "version": "[2.0.5, )"
+              "version": "[1.0.5, )"
             }
           },
           "imports": [
