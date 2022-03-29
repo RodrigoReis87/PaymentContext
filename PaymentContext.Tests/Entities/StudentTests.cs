@@ -13,7 +13,7 @@ namespace PaymentContext.Tests.Entities
             var name = new Name("Teste", "Teste");
             foreach (var not in name.Notifications)
             {
-                not.Message;
+                // not.Message;
             }
         }
     }
