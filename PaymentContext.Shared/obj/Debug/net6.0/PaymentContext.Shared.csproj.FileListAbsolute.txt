@@ -1,0 +1,12 @@
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.csproj.AssemblyReference.cache
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.AssemblyInfo.cs
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\bin\Debug\net6.0\PaymentContext.Shared.deps.json
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\bin\Debug\net6.0\PaymentContext.Shared.dll
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\bin\Debug\net6.0\PaymentContext.Shared.pdb
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.dll
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\refint\PaymentContext.Shared.dll
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.pdb
+D:\CursoBalta\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\net6.0\ref\PaymentContext.Shared.dll
